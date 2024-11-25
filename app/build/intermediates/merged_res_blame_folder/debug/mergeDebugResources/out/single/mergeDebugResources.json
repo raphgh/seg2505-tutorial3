@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/layout_activity_query.xml.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/layout/activity_query.xml"
+    },
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/layout_activity_main.xml.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.google.firebase.referencecode.database.app-debug-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.google.firebase.referencecode.database.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

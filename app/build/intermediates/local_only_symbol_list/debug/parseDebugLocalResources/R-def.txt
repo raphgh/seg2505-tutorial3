@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+layout activity_main
+layout activity_query
+mipmap ic_launcher
+string app_name
+string default_web_client_id
+string firebase_database_url
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string project_id
+style AppTheme
